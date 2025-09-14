@@ -11,7 +11,7 @@ export default function HomePage() {
       <Navigation />
 
       {/* Hero Section */}
-      <section className="relative py-20 px-4">
+      <section className="relative py-45 px-4 bg-gradient-to-b from-primary/10 to-transparent">
         <div className="container mx-auto text-center">
           {/*<Badge variant="secondary" className="mb-4">
             Professional Support System
