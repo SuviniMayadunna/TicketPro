@@ -13,9 +13,9 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative py-20 px-4">
         <div className="container mx-auto text-center">
-          <Badge variant="secondary" className="mb-4">
+          {/*<Badge variant="secondary" className="mb-4">
             Professional Support System
-          </Badge>
+          </Badge>*/}
           <h1 className="text-4xl md:text-6xl font-bold mb-6 text-balance">
             Streamline Your
             <span className="text-primary"> Support Tickets</span>
